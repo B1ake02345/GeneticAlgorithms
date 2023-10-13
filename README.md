@@ -1,2 +1,2 @@
 # GeneticAlgorithms
-Repository containing all my research on genetic algorithms
+Repository containing all my genetic algorithm projects.
